@@ -4,4 +4,4 @@
 
 - [Assignment2-Physical Model and Sample Data](./Assignment%202)
 
-- [Assignment3-ETL Application](./Assignment 3)
+- [Assignment3-ETL Application](./Assignment%203)
